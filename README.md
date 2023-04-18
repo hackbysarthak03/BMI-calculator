@@ -1,16 +1,40 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+***Flutter*** for Frontend -
+***Dart*** for Backend
 
-## Getting Started
+BMI Calculator enables youto calculate the BMI, that will help you to know how much healthy you are
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Getting started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>   _This Section will introduce you to the first Screen of BMI Calculator_
+
+### Input Screen
+
+_This Screen will demand for several inputs like :_
+
+>Gender<br>
+>Height<br>
+>Weight<br>
+>Age<br>
+
+_According to these information, it calculates your Body Mass Index (BMI)_<br>
+_(This uses the basic formula of BMI = (weight)/(height)^2 )_
+
+
+![First Page](lib/assets/Screenshot_20230418-121429.png)
+
+### Result Screen
+
+_This page shows you your BMI_
+
+
+![Game Page](lib/assets/Screenshot_20230418-121439.png)
+
+### Thanks for Visting here
+
+Follow me on LinkedIn : https://www.github.com/hackbysarthak03
+
+
